@@ -7,8 +7,7 @@ Users can surf the available rooms from the dropdown list according to their int
 
 #### Content:
 *	System Flow Diagram
-*	MVC Web Application
-*	Database File
+*	Web Application
 
 #
 
